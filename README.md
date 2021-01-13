@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/lpagnacco-devops-expert0459/lpagnacco-devops-expert/_apis/build/status/toothpasteBeforeOj.ContosoAir?branchName=master)](https://dev.azure.com/lpagnacco-devops-expert0459/lpagnacco-devops-expert/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
